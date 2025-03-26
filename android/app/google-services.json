@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "955060688630",
+    "project_id": "kaapan-14453",
+    "storage_bucket": "kaapan-14453.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955060688630:android:80cc53338839db2cf4bed7",
+        "android_client_info": {
+          "package_name": "com.example.kaapan1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO6GWUCO-D89NzEPybYOU1MkIgKno7o0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955060688630:android:1a9f4eaffdc50705f4bed7",
+        "android_client_info": {
+          "package_name": "com.example.kaappan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO6GWUCO-D89NzEPybYOU1MkIgKno7o0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+D:/kaappan_unzip/kaappan_unzip/kaappan/android/app/.cxx/Debug/6p6t634o/x86/CMakeFiles/edit_cache.dir
+D:/kaappan_unzip/kaappan_unzip/kaappan/android/app/.cxx/Debug/6p6t634o/x86/CMakeFiles/rebuild_cache.dir

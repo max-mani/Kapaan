@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1036159948575",
+    "project_id": "kapaan-19200503",
+    "storage_bucket": "kapaan-19200503.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036159948575:android:ee5e3a7837e2a8c6e5022a",
+        "android_client_info": {
+          "package_name": "com.kapaan.tnpolice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr9v4EXmnxlUMt52z5XLo6UpfIwN-95H0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

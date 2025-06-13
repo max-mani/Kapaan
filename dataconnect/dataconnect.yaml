@@ -1,0 +1,12 @@
+specVersion: "v1"
+serviceId: "kapaan"
+location: "asia-south1"
+schema:
+  source: "./schema"
+  datasource:
+    postgresql:
+      database: "fdcdb"
+      cloudSql:
+        instanceId: "kapaan-fdc"
+      # schemaValidation: "COMPATIBLE"
+connectorDirs: ["./connector"]

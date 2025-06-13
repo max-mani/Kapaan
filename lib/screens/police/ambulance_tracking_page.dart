@@ -44,7 +44,7 @@ class _AmbulanceTrackingPageState extends State<AmbulanceTrackingPage> {
   static const int markerSize = 80;
 
   // Google Maps API key
-  static const String googleMapsApiKey = 'AIzaSyAO6GWUCO-D89NzEPybYOU1MkIgKno7o0o';
+  static const String googleMapsApiKey = 'YOUR_GOOGLE_MAP_API_KEY';
 
   @override
   void initState() {

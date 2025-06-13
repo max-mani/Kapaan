@@ -66,7 +66,7 @@ class _NavigationPageState extends State<NavigationPage> {
 
   final Completer<GoogleMapController> _controller = Completer();
   final PolylinePoints _polylinePoints = PolylinePoints();
-  final String _googleMapsApiKey = "AIzaSyAO6GWUCO-D89NzEPybYOU1MkIgKno7o0o";   
+  final String _googleMapsApiKey = "YOUR_GOOGLE_MAP_API_KEY";
 
   @override
   void initState() {

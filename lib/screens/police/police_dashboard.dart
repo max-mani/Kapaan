@@ -48,7 +48,7 @@ class _PoliceDashboardState extends State<PoliceDashboard> {
   static const int markerSize = 80; // Updated to match ambulance dashboard
 
   // Google Maps API key
-  static const String googleMapsApiKey = 'AIzaSyAO6GWUCO-D89NzEPybYOU1MkIgKno7o0o';
+  static const String googleMapsApiKey = 'YOUR_GOOGLE_MAP_API_KEY';
 
   Future<Uint8List> resizeImage(Uint8List data) async {
     final ui.Codec codec = await ui.instantiateImageCodec(data);
